@@ -3,6 +3,6 @@
     "viewportHeight": 768,
     "defaultCommandTimeout": 10000,
     "baseUrl": "https://www.deguns.net/",
-    "baseUrl2": "https://www.deguns.net/ammo/"
-    
+    "baseUrl2": "https://www.deguns.net/ammo/",
+    "projectId": "jkuesm"
 }

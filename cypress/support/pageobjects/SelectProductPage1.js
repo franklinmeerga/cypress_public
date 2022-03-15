@@ -12,7 +12,7 @@ class SelectProductPage1 {
 
     // Acessa o site que será testado
     site() {
-        cy.visit('https://www.deguns.net/ammo')
+        cy.visit( 'https://www.deguns.net/ammo')
     }
 
     // Acessa o site que será testado
