@@ -7,5 +7,5 @@ jobs:
       - name: Cypress.io
         uses: cypress-io/github-action@v9.5.1
         with:
-          start: npm start
+          start: npx start
    
