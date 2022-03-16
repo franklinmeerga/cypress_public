@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Cypress.io
-        uses: cypress-io/github-action@v2
+        uses: cypress-io/github-action@v9.5.2
         with:
           start: npm start
 
