@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Cypress.io
         uses: cypress-io/github-action@v2
-        with:
-          start: npx start
+        
+
    
